@@ -72,6 +72,6 @@ I design and ship production systems across backend platforms, modern web applic
 
 Steady delivery matters to me more than repository vanity metrics. The most reliable signal here is GitHub's own contribution graph below this README, along with a contribution-based streak view.
 
-<p align="left">
+<p align="center">
   <img height="175" src="https://streak-stats.demolab.com?user=VahidKz&theme=transparent&hide_border=true" alt="GitHub streak and contribution activity" />
 </p>
