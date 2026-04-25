@@ -1,11 +1,11 @@
 # Vahid Keshavarz
 
 Senior Software Engineer & Technical Team Lead  
-Istanbul, Türkiye
+Istanbul, Turkiye
 
 I build production systems across backend platforms, frontend delivery, and real-time architecture, with a strong bias toward ownership, consistency, and systems thinking.
 
-[Email](mailto:vhdray@gmail.com) · [LinkedIn](https://linkedin.com/in/vahid-keshavarz) · [GitHub](https://github.com/VahidKz)
+[Email](mailto:vhdray@gmail.com) | [LinkedIn](https://linkedin.com/in/vahid-keshavarz) | [GitHub](https://github.com/VahidKz)
 
 ## Focus
 
