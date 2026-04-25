@@ -1,8 +1,5 @@
 # Vahid Keshavarz
 
-Senior Software Engineer and Technical Team Lead  
-Istanbul, Turkiye
-
 I build the parts users only notice when they fail: APIs, search, release pipelines, real-time systems, and the tooling that keeps them boring in production.
 
 <p align="left">
@@ -13,7 +10,7 @@ I build the parts users only notice when they fail: APIs, search, release pipeli
   <img src="https://img.shields.io/badge/Agentic%20Workflows-24292f?style=flat-square" alt="Agentic Workflows" />
 </p>
 
-[Email](mailto:vhdray@gmail.com) | [LinkedIn](https://linkedin.com/in/vahid-keshavarz) | [GitHub](https://github.com/VahidKz)
+[Email](mailto:vhdray@gmail.com) | [LinkedIn](https://linkedin.com/in/vahid-keshavarz) | [Telegram](https://t.me/Vhd_K)
 
 ## Working With
 
@@ -27,14 +24,13 @@ I build the parts users only notice when they fail: APIs, search, release pipeli
   <img src="https://img.shields.io/badge/Elasticsearch-24292f?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
   <img src="https://img.shields.io/badge/Kafka-24292f?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
   <img src="https://img.shields.io/badge/Docker-24292f?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-24292f?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS%20DevOps-24292f?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS DevOps" />
+  <img src="https://img.shields.io/badge/Sentry-24292f?style=flat-square&logo=sentry&logoColor=white" alt="Sentry" />
+  <img src="https://img.shields.io/badge/PostHog-24292f?style=flat-square&logo=posthog&logoColor=white" alt="PostHog" />
   <img src="https://img.shields.io/badge/Codex-24292f?style=flat-square" alt="Codex" />
   <img src="https://img.shields.io/badge/Claude%20Code-24292f?style=flat-square" alt="Claude Code" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-24292f?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-24292f?style=flat-square" alt="OpenAI API" />
 </p>
-
-Lately: technical SEO, search relevance, event-driven systems, and agentic tooling.
 
 ## Shipping Rhythm
 
