@@ -10,7 +10,7 @@ I build the parts users only notice when they fail: APIs, search, release pipeli
   <img src="https://img.shields.io/badge/Backend%20Architecture-24292f?style=flat-square" alt="Backend Architecture" />
   <img src="https://img.shields.io/badge/Realtime%20Systems-24292f?style=flat-square" alt="Realtime Systems" />
   <img src="https://img.shields.io/badge/Cloud%20Delivery-24292f?style=flat-square" alt="Cloud Delivery" />
-  <img src="https://img.shields.io/badge/AI%20Assisted%20Development-24292f?style=flat-square" alt="AI Assisted Development" />
+  <img src="https://img.shields.io/badge/Agentic%20Workflows-24292f?style=flat-square" alt="Agentic Workflows" />
 </p>
 
 [Email](mailto:vhdray@gmail.com) | [LinkedIn](https://linkedin.com/in/vahid-keshavarz) | [GitHub](https://github.com/VahidKz)
@@ -28,10 +28,13 @@ I build the parts users only notice when they fail: APIs, search, release pipeli
   <img src="https://img.shields.io/badge/Kafka-24292f?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
   <img src="https://img.shields.io/badge/Docker-24292f?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-24292f?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Codex-24292f?style=flat-square" alt="Codex" />
+  <img src="https://img.shields.io/badge/Claude%20Code-24292f?style=flat-square" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-24292f?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
   <img src="https://img.shields.io/badge/OpenAI%20API-24292f?style=flat-square" alt="OpenAI API" />
 </p>
 
-Lately: technical SEO, search relevance, event-driven systems, and agentic developer workflows.
+Lately: technical SEO, search relevance, event-driven systems, and agentic tooling.
 
 ## Shipping Rhythm
 
