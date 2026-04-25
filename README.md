@@ -3,13 +3,14 @@
 Senior Software Engineer and Technical Team Lead  
 Istanbul, Turkiye
 
-I design and ship production systems across backend platforms, modern web applications, and real-time data pipelines. My strongest work sits where architecture, delivery, and operational ownership meet.
+I lead technical delivery across engineering, QA, DevOps, and product, and I ship production systems across backend platforms, modern web applications, real-time data pipelines, and AI-assisted workflows. My strongest work sits where architecture, delivery, and operational ownership meet.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Senior%20Engineer-24292f?style=flat-square" alt="Senior Engineer" />
+  <img src="https://img.shields.io/badge/Technical%20Leadership-24292f?style=flat-square" alt="Technical Leadership" />
   <img src="https://img.shields.io/badge/Backend%20Architecture-24292f?style=flat-square" alt="Backend Architecture" />
   <img src="https://img.shields.io/badge/Realtime%20Systems-24292f?style=flat-square" alt="Realtime Systems" />
   <img src="https://img.shields.io/badge/Cloud%20Delivery-24292f?style=flat-square" alt="Cloud Delivery" />
+  <img src="https://img.shields.io/badge/AI%20Assisted%20Development-24292f?style=flat-square" alt="AI-Assisted Development" />
   <img src="https://img.shields.io/badge/Security-24292f?style=flat-square" alt="Security" />
 </p>
 
@@ -17,10 +18,17 @@ I design and ship production systems across backend platforms, modern web applic
 
 ## Focus
 
+- Technical ownership across delivery planning, implementation, release coordination, and post-release reliability.
 - Backend platforms for commerce and operational workflows, with clean contracts, strong auth boundaries, and maintainable service design.
 - Nuxt and Vue applications optimized for SEO, Core Web Vitals, and long-term frontend maintainability.
 - Event-driven and IoT systems built with Kafka, MQTT, Redis, WebSocket, and low-latency messaging patterns.
-- Delivery pipelines and cloud infrastructure shaped around repeatability, observability, and calm operations.
+- AI-assisted development workflows using OpenAI API, Claude Code, and Copilot where they create concrete leverage in delivery or content operations.
+
+## Recent Outcomes
+
+- Improved SEO health from `2` to `87` and lifted Lighthouse / Core Web Vitals from roughly `40` to `90+` on a live commerce platform.
+- Led a Nuxt `2` to Nuxt `3` migration, added PWA capability, and integrated AI-generated product content workflows.
+- Built and operated production systems using Kafka, ZeroMQ, PostgreSQL, Redis, Elasticsearch, Docker, and AWS ECS / EC2 / RDS / S3 / CloudWatch.
 
 ## Stack
 
@@ -66,6 +74,15 @@ I design and ship production systems across backend platforms, modern web applic
   <img src="https://img.shields.io/badge/AWS%20RDS-24292f?style=flat-square&logo=amazonrds&logoColor=white" alt="AWS RDS" />
   <img src="https://img.shields.io/badge/AWS%20S3-24292f?style=flat-square&logo=amazons3&logoColor=white" alt="AWS S3" />
   <img src="https://img.shields.io/badge/CloudWatch-24292f?style=flat-square&logo=amazoncloudwatch&logoColor=white" alt="CloudWatch" />
+</p>
+
+**AI-Assisted Development**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI%20API-24292f?style=flat-square" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Claude%20Code-24292f?style=flat-square" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-24292f?style=flat-square" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Agentic%20Workflows-24292f?style=flat-square" alt="Agentic Workflows" />
 </p>
 
 ## Shipping Rhythm
