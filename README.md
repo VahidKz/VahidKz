@@ -9,7 +9,9 @@ I build the parts users only notice when they fail: APIs, search, release pipeli
   <img src="https://img.shields.io/badge/Agentic%20Workflows-24292f?style=flat-square" alt="Agentic Workflows" />
 </p>
 
-<p align="left">
+## Contact
+
+<p align="center">
   <a href="mailto:vhdray@gmail.com">
     <img src="https://img.shields.io/badge/Email-24292f?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -38,7 +40,6 @@ I build the parts users only notice when they fail: APIs, search, release pipeli
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-24292f?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-24292f?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-24292f?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Docker-24292f?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-24292f?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Sentry-24292f?style=flat-square&logo=sentry&logoColor=white" alt="Sentry" />
