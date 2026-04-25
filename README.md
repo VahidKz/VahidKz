@@ -68,31 +68,11 @@ I design and ship production systems across backend platforms, modern web applic
   <img src="https://img.shields.io/badge/CloudWatch-24292f?style=flat-square&logo=amazoncloudwatch&logoColor=white" alt="CloudWatch" />
 </p>
 
-## Selected Work
-
-<p align="left">
-  <a href="https://github.com/VahidKz/laravel-api-boilerplate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VahidKz&repo=laravel-api-boilerplate&theme=transparent&hide_border=true" alt="laravel-api-boilerplate" />
-  </a>
-  <a href="https://github.com/VahidKz/nuxt3-pwa-seo-starter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VahidKz&repo=nuxt3-pwa-seo-starter&theme=transparent&hide_border=true" alt="nuxt3-pwa-seo-starter" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/VahidKz/github-actions-cicd-templates">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VahidKz&repo=github-actions-cicd-templates&theme=transparent&hide_border=true" alt="github-actions-cicd-templates" />
-  </a>
-  <a href="https://github.com/VahidKz/system-design-primer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VahidKz&repo=system-design-primer&theme=transparent&hide_border=true" alt="system-design-primer" />
-  </a>
-</p>
-
 ## Shipping Rhythm
 
-Steady delivery matters to me more than occasional bursts. The activity on this profile reflects day-to-day shipping over the last 2.5+ years, and GitHub's native contribution graph below this README remains the clearest signal.
+Steady delivery matters to me more than repository vanity metrics. The strongest signal on this profile is consistent commits and pull request activity over time, with GitHub's native contribution graph below this README still serving as the clearest view.
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VahidKz&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VahidKz&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide=stars,issues&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub stats focused on commits and PR activity" />
   <img height="165" src="https://streak-stats.demolab.com?user=VahidKz&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
