@@ -3,7 +3,6 @@
 I build the parts users only notice when they fail: APIs, search, release pipelines, real-time systems, and the tooling that keeps them boring in production.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Technical%20Leadership-24292f?style=flat-square" alt="Technical Leadership" />
   <img src="https://img.shields.io/badge/Backend%20Architecture-24292f?style=flat-square" alt="Backend Architecture" />
   <img src="https://img.shields.io/badge/Realtime%20Systems-24292f?style=flat-square" alt="Realtime Systems" />
   <img src="https://img.shields.io/badge/Cloud%20Delivery-24292f?style=flat-square" alt="Cloud Delivery" />
