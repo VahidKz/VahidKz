@@ -1,8 +1,6 @@
 # Vahid Keshavarz
 
-Backend engineer. Team lead. Occasional C++ person.
-
-I follow the problem, not the stack.
+Backend engineer. Team lead. Occasional C++ person. I follow the problem, not the stack.
 
 ## Working With
 
