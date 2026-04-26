@@ -1,27 +1,8 @@
 # Vahid Keshavarz
 
-Backend engineer focused on APIs, search, release pipelines, and real-time systems that stay quiet in production.
+Backend engineer. Team lead. Occasional C++ person.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Backend%20Architecture-1f2937?style=flat-square" alt="Backend Architecture" />
-  <img src="https://img.shields.io/badge/Realtime%20Systems-0f766e?style=flat-square" alt="Realtime Systems" />
-  <img src="https://img.shields.io/badge/Cloud%20Delivery-0369a1?style=flat-square" alt="Cloud Delivery" />
-  <img src="https://img.shields.io/badge/Agentic%20Workflows-4c1d95?style=flat-square" alt="Agentic Workflows" />
-</p>
-
-## Contact
-
-<p align="center">
-  <a href="mailto:vhdray@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/vahid-keshavarz">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/Vhd_K">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
+I follow the problem, not the stack.
 
 ## Working With
 
@@ -59,9 +40,9 @@ Backend engineer focused on APIs, search, release pipelines, and real-time syste
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
   <img src="https://img.shields.io/badge/Codex-111827?style=flat-square" alt="Codex" />
   <img src="https://img.shields.io/badge/Claude%20Code-D97706?style=flat-square" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
 </p>
 
 <p align="center">
