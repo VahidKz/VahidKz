@@ -1,6 +1,6 @@
 # Vahid Keshavarz
 
-Backend engineer working across APIs, search, release pipelines, and real-time systems.
+Backend engineer focused on APIs, search, release pipelines, and real-time systems that stay quiet in production.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Backend%20Architecture-1f2937?style=flat-square" alt="Backend Architecture" />
