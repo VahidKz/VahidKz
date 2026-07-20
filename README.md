@@ -42,6 +42,3 @@ Backend engineer. Fullstack by necessity. DevOps by ownership. I follow the prob
   <img src="https://img.shields.io/badge/Codex-0F172A?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
 </p>
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=VahidKz&theme=transparent&hide_border=true&stroke=0000&card_width=720" alt="GitHub streak and contribution activity" />
-</p>
